@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "infra",
+  "versions": [
+    {
+      "commit": "fe5c204dabc12201ba44431bfde750b670c7df78",
+      "parsed_at": "2026-10-11T07:49:59.762666+00:00",
+      "filetree": "filetree/fe5c204dabc12201ba44431bfde750b670c7df78.nq.gz",
+      "blobs": [
+        "blob/07c02529fda007af774dd5fefc75d675e9d1fefc.nq.gz",
+        "blob/9a49ff1763828f3d29a14a8f08487f0e2452ff2e.nq.gz",
+        "blob/5cb1ae92ef9eae354a951fc549f031e30fa75fdf.nq.gz",
+        "blob/b7086f2a9ee3e66faebbaeaac2ad53de90783228.nq.gz",
+        "blob/2df6c6f55b0bbe7ced3de6b055a94316d6c41eb5.nq.gz",
+        "blob/a7cfd93834c9d76f5325a22da06d4ab7f88ea79c.nq.gz",
+        "blob/f7021af5d49286979ef5bab23709acc42b18cf94.nq.gz",
+        "blob/3eded3facdebe05d82777b2dcdcdd843a33f60c4.nq.gz",
+        "blob/590b3fb7eb6d67c80687d7382548a98cff2e3cc6.nq.gz",
+        "blob/86fa677d795c48f17662e5a50891a7d36be6f4f3.nq.gz",
+        "blob/6242c8b94cce18ba2f6718957389372d61dbad69.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
