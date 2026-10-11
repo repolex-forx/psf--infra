@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/infra/commit/fe5c204dabc12201ba44431bfde750b670c7df78",
       "git:hexsha": "fe5c204dabc12201ba44431bfde750b670c7df78",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
